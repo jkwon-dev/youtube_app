@@ -1,6 +1,6 @@
 ## Youtube app
 
-- This is clone cording with React
+- This is clone coding with React
 
 ## Reference
 
